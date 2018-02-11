@@ -1,0 +1,11 @@
+D:\Workspace\C#\Assessment14\Assessment14\bin\Debug\Assessment14.exe.config
+D:\Workspace\C#\Assessment14\Assessment14\obj\Debug\Assessment14.Form1.resources
+D:\Workspace\C#\Assessment14\Assessment14\obj\Debug\Assessment14.Properties.Resources.resources
+D:\Workspace\C#\Assessment14\Assessment14\obj\Debug\Assessment14.csproj.GenerateResource.Cache
+D:\Workspace\C#\Assessment14\Assessment14\bin\Debug\Personnel.mdf
+D:\Workspace\C#\Assessment14\Assessment14\bin\Debug\Personnel_log.ldf
+D:\Workspace\C#\Assessment14\Assessment14\bin\Debug\Assessment14.exe
+D:\Workspace\C#\Assessment14\Assessment14\bin\Debug\Assessment14.pdb
+D:\Workspace\C#\Assessment14\Assessment14\obj\Debug\Assessment14.exe
+D:\Workspace\C#\Assessment14\Assessment14\obj\Debug\Assessment14.pdb
+D:\Workspace\C#\Assessment14\Assessment14\obj\Debug\Assessment14.csprojResolveAssemblyReference.cache

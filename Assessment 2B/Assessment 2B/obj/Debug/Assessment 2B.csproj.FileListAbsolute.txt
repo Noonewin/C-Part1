@@ -1,0 +1,8 @@
+E:\Workspace\C#\Assessment 2B\Assessment 2B\bin\Debug\Assessment 2B.exe.config
+E:\Workspace\C#\Assessment 2B\Assessment 2B\bin\Debug\Assessment 2B.exe
+E:\Workspace\C#\Assessment 2B\Assessment 2B\bin\Debug\Assessment 2B.pdb
+E:\Workspace\C#\Assessment 2B\Assessment 2B\obj\Debug\Assessment_2B.Form1.resources
+E:\Workspace\C#\Assessment 2B\Assessment 2B\obj\Debug\Assessment_2B.Properties.Resources.resources
+E:\Workspace\C#\Assessment 2B\Assessment 2B\obj\Debug\Assessment 2B.csproj.GenerateResource.Cache
+E:\Workspace\C#\Assessment 2B\Assessment 2B\obj\Debug\Assessment 2B.exe
+E:\Workspace\C#\Assessment 2B\Assessment 2B\obj\Debug\Assessment 2B.pdb

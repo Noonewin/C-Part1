@@ -1,2 +1,3 @@
-# C-Part1
-All assignments for C# part 1
+# C#-Part1
+
+Some of the assignments solutions for C# part 1.
